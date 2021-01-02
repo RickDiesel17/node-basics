@@ -1,0 +1,107 @@
+Writing programs or programming is a very creative
+and rewarding activity  You can write programs for
+many reasons ranging from making your living to solving
+a difficult data analysis problem to having fun to helping
+someone else solve a problem  This book assumes that
+{\em everyone} needs to know how to program and that once
+you know how to program, you will figure out what you want
+to do with your newfound skills
+
+We are surrounded in our daily lives with computers ranging
+from laptops to cell phones  We can think of these computers
+as our personal assistants who can take care of many things
+on our behalf  The hardware in our current-day computers
+is essentially built to continuously ask us the question
+What would you like me to do next
+
+Our computers are fast and have vasts amounts of memory and 
+could be very helpful to us if we only knew the language to 
+speak to explain to the computer what we would like it to 
+do next If we knew this language we could tell the 
+computer to do tasks on our behalf that were reptitive  
+Interestingly, the kinds of things computers can do best
+are often the kinds of things that we humans find boring
+and mind-numbing
+
+Computer programming is the process of designing and building 
+an executable computer program to accomplish a specific computing
+result or to perform a specific task. Programming involves 
+tasks such as: analysis, generating algorithms, profiling 
+algorithms' accuracy and resource consumption, and the 
+implementation of algorithms in a chosen programming language
+(commonly referred to as coding).[1][2] The source code of 
+a program is written in one or more languages that are 
+intelligible to programmers, rather than machine code, which 
+is directly executed by the central processing unit. 
+The purpose of programming is to find a sequence of instructions
+that will automate the performance of a task (which can be as 
+complex as an operating system) on a computer, often for 
+solving a given problem. Proficient programming thus often 
+requires expertise in several different subjects, including 
+knowledge of the application domain, specialized algorithms, 
+and formal logic.
+
+Tasks accompanying and related to programming include: testing,
+debugging, source code maintenance, implementation of build 
+systems, and management of derived artifacts, such as the machine
+code of computer programs. These might be considered part of 
+the programming process, but often the term software development
+is used for this larger process with the term programming, 
+implementation, or coding reserved for the actual writing of 
+code. Software engineering combines engineering techniques with 
+software development practices. Reverse engineering is a related 
+process used by designers, analysts and programmers to
+understand and re-create/re-implement.
+
+The cat stretched.
+Jacob stood on his tiptoes.
+The car turned the corner.
+Kelly twirled in circles.
+She opened the door.
+Aaron made a picture.
+I'm sorry.
+I danced.
+
+Run!
+Open the jar carefully.
+Read the directions.
+Don't cry.
+Use common sense.
+Make the best of things.
+Catch up!
+
+Sarah and Ira drove to the store.
+Jenny and I opened all the gifts.
+The cat and dog ate.
+My parents and I went to a movie.
+Mrs. Juarez and Mr. Smith are dancing gracefully.
+Samantha, Elizabeth, and Joan are on the committee.
+The ham, green beans, mashed potatoes, and corn are gluten-free.
+The paper and pencil sat idle on the desk.
+
+Misha walked and looked around.
+My mother hemmed and hawed over where to go for dinner.
+He was eating and talking.
+I rinsed and dried the dishes.
+Joe stood up and spoke to the crowd.
+
+The mangy, scrawny stray dog hurriedly gobbled down the grain-free, 
+organic dog food.
+I quickly put on my red winter jacket, black snow pants, 
+waterproof boots, homemade mittens, and handknit scarf.
+The incessant ticking and chiming echoed off the weathered walls 
+of the clock repair shop.
+Nervously, I unfolded the wrinkled and stained letter from my 
+long-dead ancestor.
+Into the suitcase, I carelessly threw a pair of ripped jeans, my 
+favorite sweater from high school, an old pair of tube socks with 
+stripes, and $20,000 in cash.
+
+"The Spirits of All Three shall strive within me." 
+A Christmas Carol by Charles Dickens
+"I was the more deceived." 
+Ophelia in Hamlet by William Shakespeare
+"Neither boy spoke." 
+The Adventures of Tom Sawyer by Mark Twain
+"Call me Ishmael." 
+Moby Dick by Herman Melville
